@@ -23,7 +23,7 @@
             </a>
           </li>
           <li class="sidebar-item  ">
-            <a href={$url('/example/dasboard')} class="sidebar-link">
+            <a href={$url('/example/dashboard')} class="sidebar-link">
               <i data-feather="layout" width="20" />
               <span>Dashboard</span>
             </a>
